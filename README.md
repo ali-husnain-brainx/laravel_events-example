@@ -12,7 +12,7 @@ This is the test code for laravel form validation technique.
 
 4 - For testing events working hit on 'Get User' link from navbar
 
-##And Boom
+### And Boom
 
 ## Authors
 
