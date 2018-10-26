@@ -10,7 +10,7 @@ This is the test code for laravel form validation technique.
 
 3 - run the project and add 2 0r 3 user from sigup for testing events.
 
-4 - For testing events working hit on 'Get User' link from navbar
+4 - For testing events working after login from dashboard click on  'Test Event' lin.
 
 ### And Boom
 
